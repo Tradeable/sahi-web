@@ -125483,7 +125483,7 @@ j=i.a2
 j=A.b([new A.c7(0,B.a8,A.a7(40,j.p()>>>16&255,j.p()>>>8&255,j.p()&255),B.cC,1)],t.V)
 s=t.p
 r=A.b([],s)
-r.push(A.YK("/sahi.png",k,k,k,k,k))
+r.push(A.YK("assets/sahi.png",k,k,k,k,k))
 q=i.b
 r.push(A.ai("Academy",k,k,k,k,k,k,k,A.bI(k,k,q,k,k,k,k,k,k,k,k,14,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k,k))
 r.push(B.dk)
